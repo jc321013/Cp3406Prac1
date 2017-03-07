@@ -25,11 +25,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/Fruit"
-        android:layout_weight="0.13"
-        android:scaleType="center" />
+        android:scaleType="center"
+        android:contentDescription="@string/photo_of_fruit" />
 
     <TextView
-        android:text="Eat Fruit, Its Healthy :)"
+        android:text="@string/eat_fruit_its_healthy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView3"

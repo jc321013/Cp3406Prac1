@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">WelcomeIT</string>
     <string name="welcomeText">Welcome to mobile technology</string>
+    <string name="photo_of_fruit">Photo of fruit</string>
+    <string name="eat_fruit_its_healthy">Eat Fruit, Its Healthy :)</string>
 </resources>

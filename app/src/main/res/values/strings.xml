@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WelcomeIT</string>
+    <string name="welcomeText">Welcome to mobile technology</string>
+</resources>
